@@ -1,0 +1,36 @@
+C:\Users\Maty\Documents\Visual Studio 2012\Projects\ClassLibrary1\Calculadora_WF\bin\Debug\Calculadora_WF.exe.config
+C:\Users\Maty\Documents\Visual Studio 2012\Projects\ClassLibrary1\Calculadora_WF\bin\Debug\Calculadora_WF.exe
+C:\Users\Maty\Documents\Visual Studio 2012\Projects\ClassLibrary1\Calculadora_WF\bin\Debug\Calculadora_WF.pdb
+C:\Users\Maty\Documents\Visual Studio 2012\Projects\ClassLibrary1\Calculadora_WF\bin\Debug\ClassLibrary1.dll
+C:\Users\Maty\Documents\Visual Studio 2012\Projects\ClassLibrary1\Calculadora_WF\bin\Debug\ClassLibrary1.pdb
+C:\Users\Maty\Documents\Visual Studio 2012\Projects\ClassLibrary1\Calculadora_WF\obj\Debug\Calculadora_WF.csprojResolveAssemblyReference.cache
+C:\Users\Maty\Documents\Visual Studio 2012\Projects\ClassLibrary1\Calculadora_WF\obj\Debug\Calculadora_WF.Form1.resources
+C:\Users\Maty\Documents\Visual Studio 2012\Projects\ClassLibrary1\Calculadora_WF\obj\Debug\Calculadora_WF.Properties.Resources.resources
+C:\Users\Maty\Documents\Visual Studio 2012\Projects\ClassLibrary1\Calculadora_WF\obj\Debug\Calculadora_WF.csproj.GenerateResource.Cache
+C:\Users\Maty\Documents\Visual Studio 2012\Projects\ClassLibrary1\Calculadora_WF\obj\Debug\Calculadora_WF.exe
+C:\Users\Maty\Documents\Visual Studio 2012\Projects\ClassLibrary1\Calculadora_WF\obj\Debug\Calculadora_WF.pdb
+F:\Documentos Lore\Downloads\ClassLibrary1\Calculadora_WF\bin\Debug\Calculadora_WF.exe.config
+F:\Documentos Lore\Downloads\ClassLibrary1\Calculadora_WF\obj\Debug\Calculadora_WF.exe
+F:\Documentos Lore\Downloads\ClassLibrary1\Calculadora_WF\obj\Debug\Calculadora_WF.pdb
+F:\Documentos Lore\Downloads\ClassLibrary1\Calculadora_WF\bin\Debug\Calculadora_WF.exe
+F:\Documentos Lore\Downloads\ClassLibrary1\Calculadora_WF\bin\Debug\Calculadora_WF.pdb
+F:\Documentos Lore\Downloads\ClassLibrary1\Calculadora_WF\bin\Debug\ClassLibrary1.dll
+F:\Documentos Lore\Downloads\ClassLibrary1\Calculadora_WF\bin\Debug\ClassLibrary1.pdb
+F:\Documentos Lore\Downloads\ClassLibrary1\Calculadora_WF\obj\Debug\Calculadora_WF.csprojResolveAssemblyReference.cache
+F:\Documentos Lore\Downloads\ClassLibrary1\Calculadora_WF\obj\Debug\Calculadora_WF.Form1.resources
+F:\Documentos Lore\Downloads\ClassLibrary1\Calculadora_WF\obj\Debug\Calculadora_WF.Properties.Resources.resources
+F:\Documentos Lore\Downloads\ClassLibrary1\Calculadora_WF\obj\Debug\Calculadora_WF.csproj.GenerateResource.Cache
+C:\Users\Maty\Desktop\ClassLibrary1\Calculadora_WF\bin\Debug\Calculadora_WF.exe.config
+C:\Users\Maty\Desktop\ClassLibrary1\Calculadora_WF\obj\Debug\Calculadora_WF.exe
+C:\Users\Maty\Desktop\ClassLibrary1\Calculadora_WF\obj\Debug\Calculadora_WF.pdb
+C:\Users\Maty\Desktop\ClassLibrary1\Calculadora_WF\bin\Debug\Calculadora_WF.exe
+C:\Users\Maty\Desktop\ClassLibrary1\Calculadora_WF\bin\Debug\Calculadora_WF.pdb
+C:\Users\Maty\Desktop\ClassLibrary1\Calculadora_WF\bin\Debug\ClassLibrary1.dll
+C:\Users\Maty\Desktop\ClassLibrary1\Calculadora_WF\bin\Debug\ClassLibrary1.pdb
+C:\Users\Maty\Desktop\ClassLibrary1\Calculadora_WF\obj\Debug\Calculadora_WF.csprojResolveAssemblyReference.cache
+C:\Users\Maty\Desktop\ClassLibrary1\Calculadora_WF\obj\Debug\Calculadora_WF.Form1.resources
+C:\Users\Maty\Desktop\ClassLibrary1\Calculadora_WF\obj\Debug\Calculadora_WF.Properties.Resources.resources
+C:\Users\Maty\Desktop\ClassLibrary1\Calculadora_WF\obj\Debug\Calculadora_WF.csproj.GenerateResource.Cache
+C:\Users\Maty\Desktop\MatiasSerraCalculadora\Calculadora_WF\bin\Debug\Calculadora_WF.exe.config
+C:\Users\Maty\Desktop\MatiasSerraCalculadora\Calculadora_WF\obj\Debug\Calculadora_WF.exe
+C:\Users\Maty\Desktop\MatiasSerraCalculadora\Calculadora_WF\obj\Debug\Calculadora_WF.pdb
